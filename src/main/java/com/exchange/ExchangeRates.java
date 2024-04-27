@@ -1,4 +1,4 @@
-package com.exchange.model;
+package com.exchange;
 
 import java.util.Map;
 
